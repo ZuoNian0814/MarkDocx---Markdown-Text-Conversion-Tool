@@ -1,0 +1,55 @@
+{
+    "header": {
+        "font_name": "黑体",
+        "font_size": 11,
+        "color": "#000000",
+        "alignment": "right"
+    },
+    "footer": {
+        "font_name": "黑体",
+        "font_size": 9,
+        "color": "#000000",
+        "alignment": "right"
+    },
+    "page_number": {
+        "font_name": "Times New Roman",
+        "font_size": 9,
+        "color": "#000000",
+        "alignment": "center"
+    },
+    "heading": {
+        "font_name": "黑体",
+        "font_size": 24,
+        "color": "#000000"
+    },
+    "quote": {
+        "font_name": "Times New Roman",
+        "font_size": 14,
+        "color": "#000000"
+    },
+    "paragraph": {
+        "font_name": "黑体",
+        "font_size": 15,
+        "color": "#000000"
+    },
+    "code_fence": {
+        "font_name": "Noto Sans SC",
+        "font_size": 14,
+        "color": "#000000"
+    },
+    "list": {
+        "font_name": "黑体",
+        "font_size": 14,
+        "color": "#000000"
+    },
+    "image_caption": {
+        "font_name": "黑体",
+        "font_size": 12,
+        "color": "#000000"
+    },
+    "table_cell": {
+        "font_name": "黑体",
+        "font_size": 14,
+        "color": "#000000"
+    }
+}
